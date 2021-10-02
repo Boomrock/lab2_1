@@ -1,0 +1,13 @@
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Lab2_CA.exe
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Lab2_CA.deps.json
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Lab2_CA.runtimeconfig.json
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Lab2_CA.runtimeconfig.dev.json
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Lab2_CA.dll
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Lab2_CA.pdb
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.csprojAssemblyReference.cache
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.AssemblyInfoInputs.cache
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.AssemblyInfo.cs
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.csproj.CoreCompileInputs.cache
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.dll
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.pdb
+C:\Users\федор\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Lab2_CA.genruntimeconfig.cache
